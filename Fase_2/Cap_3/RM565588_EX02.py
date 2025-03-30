@@ -1,7 +1,6 @@
 # FIAP ADS Fase 2, Atividade 1: Exercicio 2 - Compra de veículo
 # Autor: Giovanni Yuri Mita Chaves, RM 565588
 # Data: 29/03/2025
-# Material consultado para referência:
 
 def get_vehicle_price():
     while True:

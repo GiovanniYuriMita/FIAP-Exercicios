@@ -1,4 +1,4 @@
-# FIAP ADS Fase 2, Atividade 1: Exercicio 3 - Simulação de resgate de ações
+# FIAP ADS Fase 2, Atividade 1: Exercicio 4 - Simulação de resgate de ações
 # Autor: Giovanni Yuri Mita Chaves, RM 565588
 # Data: 29/03/2025
 
