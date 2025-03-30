@@ -10,8 +10,8 @@ def get_vehicle_price():
             if price <= 0:
                 raise ValueError("O preço deve ser maior que zero.")
             return price
-        except ValueError as e:
-            print(f"Entrada inválida: {e}. Tente novamente.")
+        except ValueError:
+            print(f"Entrada inválida. Tente novamente.")
 
 def calculate_prices(vehicle_price):
     installments = {
